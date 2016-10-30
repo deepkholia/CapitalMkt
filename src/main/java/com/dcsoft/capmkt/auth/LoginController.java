@@ -27,7 +27,7 @@ import com.dcsoft.capmkt.orm.ChUserLogin;
 public class LoginController {
 	
 	/*@Autowired
-	private Facebook facebook;
+	private Facebook facebook;   
 	
 	@Autowired
 	private ConnectionRepository connectionRepository;
